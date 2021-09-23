@@ -1,0 +1,68 @@
+.container {
+  font-family: "Poppins", sans-serif;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  padding: 100px;
+  max-width: 1000px;
+  background-image: linear-gradient(
+    to right top,
+    #ffffff,
+    #f7f2fe,
+    #f4e4fa,
+    #f5d4f2,
+    #f8c4e6
+  );
+  margin-top: 20px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+h1 {
+  font-weight: 600;
+  display: block;
+  text-align: center;
+  padding: 50px;
+}
+h2 {
+  font-weight: 400;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 300;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+}
+
+.temp {
+  font-weight: 700;
+}
+
+.btn-go {
+  padding: 10px 30px;
+  border: none;
+  background-color: #8390fa;
+  align-content: center;
+  border-radius: 5px;
+}
+
+.btn-go:hover {
+  background-color: #ffffff;
+  color: #8390fa;
+}
+
+.location-form {
+  padding: 10px 30px;
+}
+
+form {
+  margin: 0 auto;
+  align-content: center;
+  text-align: center;
+}
+
+.live-weather {
+  text-align: center;
+}
